@@ -14,7 +14,7 @@ info:
   class_notebook: TODO
   ical: files/CS474.ics
   teamshelproom: "https://teams.microsoft.com/l/team/19%3AcIjNWDHJlNvR3ljJ-mWs_IkFXR0CIjBvAh2csMbBEko1%40thread.tacv2/conversations?groupId=a4e281ab-a76a-4316-90f0-687f0c1f0066&tenantId=921f1c03-8689-4e60-a722-f5ea581e00fe"
-  course_prerequisites: "CS275 Software Engineering"
+  course_prerequisites: "CS-375 Software Engineering"
   course_start_date: "2026/01/28"
   course_end_date: "2026/05/26"
   course_description: "The study of human-computer interaction enables system architects to design useful, efficient, and enjoyable computer interfaces. This course teaches the theory, design procedure, and programming practices behind effective human interaction with computers. This course satisfies the College requirement for a capstone experience in the major. Offered in the spring semester of even years. Three hours per week."
@@ -85,24 +85,26 @@ textbooks:
   authors: "Don Norman"
   edition: "Revised and Expanded Edition"
   isbn: "978-0465050659"
-  link: https://ursinus.bncollege.com/shop/BNCB_TextbookDetailView?displayStoreId=42559&urlRequestType=Base&catalogId=10001&productId=600005982489&langId=-1&partNumber=MBS_1393182&storeId=42559&sectionId=107174753&item=N
+  link: https://ursinus.ecampus.com/design-everyday-things-revised-expanded/bk/9780465050659
   image: https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0465050654.gif
   isrequired: true 
-  freelyavailable: false
+  freelyavailable: true
 - title: "Hooked: How to Build Habit-Forming Products"
   authors: "Nir Eyal"
   edition: "14th Edition"
   isbn: "978-1591847786"
-  link: https://ursinus.bncollege.com/shop/BNCB_TextbookDetailView?displayStoreId=42559&urlRequestType=Base&catalogId=10001&productId=600006526655&langId=-1&partNumber=MBS_1691218&storeId=42559&sectionId=107174753&item=N
-  isrequired: true   
+  link: https://ursinus.ecampus.com/hooked-how-build-habitforming-products/bk/9781591847786
   image: https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1591847788.gif
+  isrequired: true
+  freelyavailable: true   
 - title: "The Age of Surveillance Capitalism"
-  isrequired: false
   authors: "Shoshana Zuboff"
   edition: "1st Edition"
-  isbn: "978-1610395694"
-  link: https://smile.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697
+  isbn: "978-1541758001"
+  link: https://ursinus.ecampus.com/age-surveillance-capitalism-fight-human/bk/9781541758001
   image: https://images-na.ssl-images-amazon.com/images/I/41TGOadjwHL._SX316_BO1,204,203,200_.jpg
+  isrequired: false
+  freelyavailable: true
   
 objectives:
 - objective: "To methodically evaluate the interface design elements for effective human-computer interaction"
