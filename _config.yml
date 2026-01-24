@@ -11,8 +11,8 @@ theme: jekyll-theme-slate
 title: "CS474"
 description: "Human Computer Interaction"
 
-url                      : https://BillJr99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/Ursinus-CS474-Spring2024" # the subpath of your site, e.g. "/blog"
+url                      : https://hwilt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/Ursinus-CS474-Spring2026" # the subpath of your site, e.g. "/blog"
     
 # Reading Files
 include:
