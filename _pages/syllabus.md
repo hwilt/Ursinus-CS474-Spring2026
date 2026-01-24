@@ -67,7 +67,7 @@ instructors:
   email: hewilt@ursinus.edu
   phone: "443-750-0251"
   office: "No Office"
-  webpage_url: "https://hwilt.github.io/Ursinus-CS474-Spring2026"
+  webpage_url: "https://hwilt.github.io/"
   picture: /Ursinus-CS474-Spring2026/images/profile.jpeg
   officehourssignup: "TODO"
   officehours:
