@@ -10,44 +10,40 @@ info:
   - section: "A"
   course_title: "Human Computer Interaction"
   credit_hours: "4 Semester Hours"
-  course_homepage: "https://www.billmongan.com/Ursinus-CS474-Spring2024/"
-  class_notebook: https://ursinuscollege365-my.sharepoint.com/personal/wmongan_ursinus_edu/Documents/Class%20Notebooks/CS474%20Spring%202024
+  course_homepage: "https://hwilt.github.io/Ursinus-CS474-Spring2026/"
+  class_notebook: TODO
   ical: files/CS474.ics
   teamshelproom: "https://teams.microsoft.com/l/team/19%3AcIjNWDHJlNvR3ljJ-mWs_IkFXR0CIjBvAh2csMbBEko1%40thread.tacv2/conversations?groupId=a4e281ab-a76a-4316-90f0-687f0c1f0066&tenantId=921f1c03-8689-4e60-a722-f5ea581e00fe"
   course_prerequisites: "CS275 Software Engineering"
-  course_start_date: "2024/01/15"
-  course_end_date: "2024/05/01"
+  course_start_date: "2026/01/28"
+  course_end_date: "2026/05/31"
   course_description: "The study of human-computer interaction enables system architects to design useful, efficient, and enjoyable computer interfaces. This course teaches the theory, design procedure, and programming practices behind effective human interaction with computers. This course satisfies the College requirement for a capstone experience in the major. Offered in the spring semester of even years. Three hours per week."
   welcome_message: "Welcome to CS474!  In this course we will examine the scientific methods by which effective interfaces between humans and technology are designed.  We will explore the ways in which human psychology and physiology are leveraged to facilitate seamless human experiences, and how these are sometimes exploited to coerce engagement.  We will study how deficiencies in interface design are identified, and how remedies are determined.  We will apply these principles through the iterative design and development of a stakeholder-based system."
   class_meets_days:
     isM: false
-    isT: true
-    isW: false
-    isR: true
+    isT: false
+    isW: true
+    isR: false
     isF: false 
     isS: false
     isU: false
   class_meets_locations:
   - section:
-    - day: "T"
-      starttime: "3:00 PM"
-      endtime: "4:15 PM"
-      place: "Pfahler 107"
-    - day: "R"
-      starttime: "3:00 PM"
-      endtime: "4:15 PM"
-      place: "Pfahler 107"
+    - day: "W"
+      starttime: "7:00 PM"
+      endtime: "9:30 PM"
+      place: "????"
   midtermexam: 
     - mdate: "TBD"
       mstarttime: "TBD"
       mendtime: "TBD"
       mroom: "TBD"       
   finalexam: 
-    - fdate: "2024/05/06"
-      fstarttime: "1:00 PM"
-      fendtime: "4:00 PM"
-      froom: "PFA 107"      
-  flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 10:59PM Eastern Time on the date(s) stated on the schedule.  Assignments will be accepted without prior permission following this time with a points deduction of 5% per day if submitted before 10:59 PM Eastern Time on the day submitted.<br><br>Students may request, in writing, up to three extensions during the semester, each lasting up to 7 days in duration.  This request should motivate the need, including the number of days requested, the reason for the request, and a day-by-day plan of one's time and energy; in addition, the request must include a report on progress to-date, including a copy of the deliverable in its current form, and documentation of at least one visit to the instructor's student hours or to the help room.  Each request will be granted only if such sufficient motivation is given, and only if the progress demonstrated merits a passing grade.  The request must be made at least 24 hours prior to the initial submission deadline.<br><br>Extra credit will not be awarded for assignments submitted under the flexible submission policy.  Students with accommodations will receive additional &quot;slack days&quot; as specified within the accommodations letter; however, some deliverables cannot be subject to accommodations due to the time-sensitive nature of the assignment (for example, group assignments, presentations, and course surveys).  Students who add the class late shall receive additional slack days equal to the number of days between the start of classes and the first date that approval is given or that class is attended (whichever occurs first).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
+    - fdate: "5/2026"
+      fstarttime: "???"
+      fendtime: "???"
+      froom: "????"      
+  flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 11:59PM Eastern Time on the date(s) stated on the schedule.  Assignments will be accepted without prior permission following this time with a points deduction of 5% per day if submitted before 10:59 PM Eastern Time on the day submitted.<br><br>Students may request, in writing, up to three extensions during the semester, each lasting up to 7 days in duration.  This request should motivate the need, including the number of days requested, the reason for the request, and a day-by-day plan of one's time and energy; in addition, the request must include a report on progress to-date, including a copy of the deliverable in its current form, and documentation of at least one visit to the instructor's student hours or to the help room.  Each request will be granted only if such sufficient motivation is given, and only if the progress demonstrated merits a passing grade.  The request must be made at least 24 hours prior to the initial submission deadline.<br><br>Extra credit will not be awarded for assignments submitted under the flexible submission policy.  Students with accommodations will receive additional &quot;slack days&quot; as specified within the accommodations letter; however, some deliverables cannot be subject to accommodations due to the time-sensitive nature of the assignment (for example, group assignments, presentations, and course surveys).  Students who add the class late shall receive additional slack days equal to the number of days between the start of classes and the first date that approval is given or that class is attended (whichever occurs first).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
   late_penalty_per_period: 5
   late_penalty_period: "day"
   banner: |
@@ -66,23 +62,19 @@ info:
     </div>
       
 instructors:
-- name: William Mongan
+- name: Henry Wilt
   title: Professor
-  email: wmongan@ursinus.edu
-  phone: "610-409-3410"
-  office: "Pfahler Hall 101L"
-  webpage_url: "http://www.billmongan.com"
-  picture: /images/profile.png
-  officehourssignup: "https://app.cal.com/billmongan/10min"
+  email: hewilt@ursinus.edu
+  phone: "443-750-0251"
+  office: "No Office"
+  webpage_url: "https://hwilt.github.io"
+  picture: /images/profile.jpeg
+  officehourssignup: "TODO"
   officehours:
-  - day: "T"
-    starttime: "11:30 AM"
-    endtime: "2:30 PM"
-    location: "Pfahler Hall 101L"  
-  - day: "R"
-    starttime: "11:30 AM"
-    endtime: "2:30 PM"
-    location: "Pfahler Hall 101L"  
+  - day: "M"
+    starttime: "12:00 PM"
+    endtime: "1:00 PM"
+    location: "Online" 
   
 textbooks:
 - title: "The Design of Everyday Things"
