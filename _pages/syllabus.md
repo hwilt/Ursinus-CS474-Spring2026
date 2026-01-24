@@ -16,7 +16,7 @@ info:
   teamshelproom: "https://teams.microsoft.com/l/team/19%3AcIjNWDHJlNvR3ljJ-mWs_IkFXR0CIjBvAh2csMbBEko1%40thread.tacv2/conversations?groupId=a4e281ab-a76a-4316-90f0-687f0c1f0066&tenantId=921f1c03-8689-4e60-a722-f5ea581e00fe"
   course_prerequisites: "CS275 Software Engineering"
   course_start_date: "2026/01/28"
-  course_end_date: "2026/05/31"
+  course_end_date: "2026/05/26"
   course_description: "The study of human-computer interaction enables system architects to design useful, efficient, and enjoyable computer interfaces. This course teaches the theory, design procedure, and programming practices behind effective human interaction with computers. This course satisfies the College requirement for a capstone experience in the major. Offered in the spring semester of even years. Three hours per week."
   welcome_message: "Welcome to CS474!  In this course we will examine the scientific methods by which effective interfaces between humans and technology are designed.  We will explore the ways in which human psychology and physiology are leveraged to facilitate seamless human experiences, and how these are sometimes exploited to coerce engagement.  We will study how deficiencies in interface design are identified, and how remedies are determined.  We will apply these principles through the iterative design and development of a stakeholder-based system."
   class_meets_days:
@@ -67,11 +67,15 @@ instructors:
   email: hewilt@ursinus.edu
   phone: "443-750-0251"
   office: "No Office"
-  webpage_url: "https://hwilt.github.io"
+  webpage_url: "https://hwilt.github.io/Ursinus-CS474-Spring2026"
   picture: /images/profile.jpeg
   officehourssignup: "TODO"
   officehours:
-  - day: "M"
+  - day: "T"
+    starttime: "12:00 PM"
+    endtime: "1:00 PM"
+    location: "Online" 
+  - day: "F"
     starttime: "12:00 PM"
     endtime: "1:00 PM"
     location: "Online" 
@@ -529,69 +533,51 @@ schedule:
     
 university:
   semester: "Spring"
-  academicyear: "2023-24"
+  academicyear: "2025-26"
   fall:
   - kname: "Add Deadline"
     kdate: "2023/09/8"
     kdisplay: true
-  - kname: "Mid Semester Grades Posted"
-    kdate: "2023/10/13"
-    kdisplay: false    
-  - kname: "Drop with a W Deadline"
-    kdate: "2023/10/25"
-    kdisplay: true  
-  - kname: "Reading Day"
-    kdate: "2023/12/9"
-    kdisplay: true     
-  - kname: "Finals Week Begins"
-    kdate: "2023/12/11"
-    kdisplay: false
-  - kname: "Finals Week Ends"
-    kdate: "2023/12/16"
-    kdisplay: false
   spring:
-  - kname: "Add Deadline"
-    kdate: "2024/01/30"
+  - kname: "Add/Drop Deadline"
+    kdate: "2026/02/06"
+    kdisplay: true
+  - kname: "Select S/S-/U Grading"
+    kdate: "2026/02/06"
+    kdisplay: true
+  - kname: "Withdraw period begins"
+    kdate: "2026/02/07"
     kdisplay: true
   - kname: "Mid Semester Grades Posted"
-    kdate: "2024/03/1"
+    kdate: "2026/03/13"
     kdisplay: false    
-  - kname: "Drop with a W Deadline"
-    kdate: "2024/03/20"
+  - kname: "Withdraw without Failure Deadline"
+    kdate: "2026/04/21"
     kdisplay: true    
   - kname: "Reading Day"
-    kdate: "2024/05/2"
+    kdate: "2026/05/13"
     kdisplay: false    
   - kname: "Finals Week Begins"
-    kdate: "2024/05/03"
-    kdisplay: false
+    kdate: "2026/05/14"
+    kdisplay: true
   - kname: "Finals Week Ends"
-    kdate: "2024/05/09"
-    kdisplay: false       
-  - kname: "Baccalaureate"
-    kdate: "2024/05/10"
-    kdisplay: false
+    kdate: "2026/05/20"
+    kdisplay: true
   - kname: "Commencement"
-    kdate: "2024/05/11"
+    kdate: "2026/05/22"
     kdisplay: false 
+  - kname: "Final Grade Due"
+    kdate: "2026/05/26"
+    kdisplay: false
   fallholidays:
   - date: "2023/10/14"
-  - date: "2023/10/15"
-  - date: "2023/10/16"
-  - date: "2023/10/17"
-  - date: "2023/11/22"
-  - date: "2023/11/23"
-  - date: "2023/11/24"
-  - date: "2023/11/25"
-  - date: "2023/11/26"
-  springholidays:
-  - date: "2024/01/15"  
-  - date: "2024/03/4"  
-  - date: "2024/03/5"  
-  - date: "2024/03/6"  
-  - date: "2024/03/7"  
-  - date: "2024/03/8"   
+  springholidays:  
+  - date: "2026/03/16"  
+  - date: "2026/03/17"  
+  - date: "2026/03/18"  
+  - date: "2026/03/19"  
+  - date: "2026/03/20"   
   
 ---
 
-Welcome to CS474!  Some material has been adapted from Dr. Alvin Grissom's 2020 HCI course.
+Welcome to CS474!  Some material has been adapted from Dr. Alvin Grissom's 2020 HCI course and Dr. Bill Mongan's 2024 HCI course.
