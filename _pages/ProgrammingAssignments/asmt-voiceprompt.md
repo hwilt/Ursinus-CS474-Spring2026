@@ -131,4 +131,4 @@ The code example to get started is reproduced below; however, it features severa
             main()
 ```
 
-[^1]: Adapted from Dr. Alvin Grissom's 2020 HCI course
+[^1]: Adapted from Dr. Alvin Grissom's 2020 HCI course and Dr. Bill Mongan's 2024 HCI course.

@@ -147,4 +147,4 @@ tags:
   
 ---
 
-Adapted from Dr. Alvin Grissom's 2020 HCI course
+Adapted from Dr. Alvin Grissom's 2020 HCI course and Dr. Bill Mongan's 2024 HCI course.

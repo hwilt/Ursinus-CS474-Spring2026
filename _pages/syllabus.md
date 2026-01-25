@@ -15,7 +15,7 @@ info:
   ical: files/CS474.ics
   teamshelproom: "https://teams.microsoft.com/l/team/19%3AcIjNWDHJlNvR3ljJ-mWs_IkFXR0CIjBvAh2csMbBEko1%40thread.tacv2/conversations?groupId=a4e281ab-a76a-4316-90f0-687f0c1f0066&tenantId=921f1c03-8689-4e60-a722-f5ea581e00fe"
   course_prerequisites: "CS-375 Software Engineering"
-  course_start_date: "2026/01/28"
+  course_start_date: "2026/01/26"
   course_end_date: "2026/05/26"
   course_description: "The study of human-computer interaction enables system architects to design useful, efficient, and enjoyable computer interfaces. This course teaches the theory, design procedure, and programming practices behind effective human interaction with computers. This course satisfies the College requirement for a capstone experience in the major. Offered in the spring semester of even years. Three hours per week."
   welcome_message: "Welcome to CS474!  In this course we will examine the scientific methods by which effective interfaces between humans and technology are designed.  We will explore the ways in which human psychology and physiology are leveraged to facilitate seamless human experiences, and how these are sometimes exploited to coerce engagement.  We will study how deficiencies in interface design are identified, and how remedies are determined.  We will apply these principles through the iterative design and development of a stakeholder-based system."
@@ -64,8 +64,7 @@ info:
 instructors:
 - name: Henry Wilt
   title: Professor
-  email: hewilt@ursinus.edu
-  phone: "443-750-0251"
+  email: hwilt@ursinus.edu
   office: "No Office"
   webpage_url: "https://hwilt.github.io/"
   picture: /Ursinus-CS474-Spring2026/images/profile.jpeg
@@ -88,15 +87,13 @@ textbooks:
   link: https://ursinus.ecampus.com/design-everyday-things-revised-expanded/bk/9780465050659
   image: https://bookinfo.mbsdirect.net/TextbookInfo/Covers/0465050654.gif
   isrequired: true 
-  freelyavailable: true
 - title: "Hooked: How to Build Habit-Forming Products"
   authors: "Nir Eyal"
   edition: "14th Edition"
   isbn: "978-1591847786"
   link: https://ursinus.ecampus.com/hooked-how-build-habitforming-products/bk/9781591847786
   image: https://bookinfo.mbsdirect.net/TextbookInfo/Covers/1591847788.gif
-  isrequired: true
-  freelyavailable: true   
+  isrequired: true 
 - title: "The Age of Surveillance Capitalism"
   authors: "Shoshana Zuboff"
   edition: "1st Edition"
@@ -104,7 +101,6 @@ textbooks:
   link: https://ursinus.ecampus.com/age-surveillance-capitalism-fight-human/bk/9781541758001
   image: https://images-na.ssl-images-amazon.com/images/I/41TGOadjwHL._SX316_BO1,204,203,200_.jpg
   isrequired: false
-  freelyavailable: true
   
 objectives:
 - objective: "To methodically evaluate the interface design elements for effective human-computer interaction"
@@ -157,18 +153,14 @@ letter_grades:
 schedule:
   - week: "0"
     date: "1"
-    title: "Course Overview"
-    link: "/Ursinus-CS474-Overview"
+    title: "Course Overview / An Example Modality - Voice Prompts"
+    link: "Activities/VoicePrompt"
+    # link: "/Ursinus-CS474-Overview"
     deliverables:
       - dtitle: "Homework Assignment: Warmup Handed Out"
         dlink: "Assignments/Written/Warmup"
         points: 15
         submission_types: "onpaper"
-  - week: "1"
-    date: "0"
-    title: "An Example Modality - Voice Prompts"
-    link: "Activities/VoicePrompt"
-    deliverables:
       - dtitle: "Homework Assignment: The Mother of All Demos Handed Out"
         dlink: "Assignments/Written/MOAD"
         points: 100
@@ -182,9 +174,14 @@ schedule:
         rlink: "https://www.youtube.com/watch?v=NXOzDf26FnU"
       - rtitle: "How to Use Eye Control on a PC Running Windows 10"
         rlink: "https://www.youtube.com/watch?v=4Bqs9JkMcCA"
+  # - week: "1"
+  #   date: "0"
+  #   title: "An Example Modality - Voice Prompts"
+  #   link: "Activities/VoicePrompt"
+  #   deliverables:
   - week: "1"
-    date: "1"
-    title: "An Example Modality - Eye Tracking"
+    date: "0"
+    title: "An Example Modality - Eye Tracking/ The Way We Interact - Affordances and Signifiers"
     link: "Activities/EyeTracking"
     deliverables:
       - dtitle: "Homework Assignment: Warmup Due"
@@ -192,6 +189,8 @@ schedule:
         points: 15
         submission_types: "onpaper"
     readings:
+      - rtitle: "The Way We Interact - Affordances and Signifiers"
+        rlink: "Activities/Interactions"  
       - rtitle: "50 Years Later, We Still Don't Grasp the Mother of All Demos"
         rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"
   - week: "2"
