@@ -237,7 +237,7 @@ schedule:
         points: 100
         rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"
     readings:
-      - rtitle: "Psychology of HCI - Human Factors (In-Class Activity)
+      - rtitle: "Psychology of HCI - Human Factors (In-Class Activity)"
         rlink: "Activities/HumanFactors" 
       - rtitle: "Types of Dark Patterns"
         rlink: "https://www.darkpatterns.org/types-of-dark-pattern"
@@ -263,11 +263,11 @@ schedule:
         points: 10
         submission_types: "onpaper"
     readings:
-      - rtitle: "Psychological Triggers (In-Class Activity)
+      - rtitle: "Psychological Triggers (In-Class Activity)"
         rlink: "Activities/Triggers" 
-      - rtitle: "Designing the User Experience (UX) (In-Class Activity)
+      - rtitle: "Designing the User Experience (UX) (In-Class Activity)"
         rlink: "Activities/UX" 
-      - rtitle: "Motivating Action (In-Class Activity)
+      - rtitle: "Motivating Action (In-Class Activity)"
         rlink: "Activities/Motivating" 
       - rtitle: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
         rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says"
