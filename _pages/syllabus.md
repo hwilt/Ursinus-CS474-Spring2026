@@ -151,21 +151,18 @@ letter_grades:
   range: "0-59.49" 
 
 schedule:
+  ## Wednesday, Janurary 28th
   - week: "0"
-    date: "1"
-    title: "Course Overview / An Example Modality - Voice Prompts"
-    link: "Activities/VoicePrompt"
-    # link: "/Ursinus-CS474-Overview"
+    date: "0"
+    title: "Course Overview"
     deliverables:
       - dtitle: "Homework Assignment: Warmup Handed Out"
         dlink: "Assignments/Written/Warmup"
         points: 15
         submission_types: "onpaper"
-      - dtitle: "Homework Assignment: The Mother of All Demos Handed Out"
-        dlink: "Assignments/Written/MOAD"
-        points: 100
-        submission_types: "written"
     readings:
+      - rtitle: "Class Slides"
+        rlink: ""
       - rtitle: "Bush, V. - As We May Think"
         rlink: "https://csis.pace.edu/~marchese/CS835/Lec3/bush.pdf"
       - rtitle: "Schalk, Z. - Humans in Control: Thoughts on the Past, Present, and Future of HCI"
@@ -174,28 +171,30 @@ schedule:
         rlink: "https://www.youtube.com/watch?v=NXOzDf26FnU"
       - rtitle: "How to Use Eye Control on a PC Running Windows 10"
         rlink: "https://www.youtube.com/watch?v=4Bqs9JkMcCA"
-  # - week: "1"
-  #   date: "0"
-  #   title: "An Example Modality - Voice Prompts"
-  #   link: "Activities/VoicePrompt"
-  #   deliverables:
+  ## Wednesday, February 4th
   - week: "1"
     date: "0"
-    title: "An Example Modality - Eye Tracking/ The Way We Interact - Affordances and Signifiers"
-    link: "Activities/EyeTracking"
+    title: "An Example Modality - Eye Tracking & An Example Modality - Voice Prompts"
     deliverables:
       - dtitle: "Homework Assignment: Warmup Due"
         dlink: "Assignments/Written/Warmup"
         points: 15
         submission_types: "onpaper"
+      - dtitle: "Homework Assignment: The Mother of All Demos Handed Out"
+        dlink: "Assignments/Written/MOAD"
+        points: 100
+        submission_types: "written"
     readings:
-      - rtitle: "The Way We Interact - Affordances and Signifiers"
-        rlink: "Activities/Interactions"  
+      - rtitle: "An Example Modality - Voice Prompts (In-Class Activity)"
+        rlink: "Activities/VoicePrompt" 
+      - rtitle: "An Example Modality - Eye Tracking (In-Class Activity)"
+        rlink: "Activities/EyeTracking" 
       - rtitle: "50 Years Later, We Still Don't Grasp the Mother of All Demos"
         rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"
+  ## Wednesday, February 11th
   - week: "2"
     date: "0"
-    title: "The Way We Interact - Affordances and Signifiers"
+    title: "The Way We Interact - Affordances and Signifiers & Psychopathology of Dark Patterns"
     link: "Activities/Interactions"
     deliverables:
       - dtitle: "Homework Assignment: The Mother of All Demos Due"
@@ -207,6 +206,10 @@ schedule:
         points: 100
         rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"
     readings:
+      - rtitle: "The Way We Interact - Affordances and Signifiers (In-Class Activity)"
+        rlink: "Activities/Interactions" 
+      - rtitle: "Psychopathology of Dark Patterns (In-Class Activity)"
+        rlink: "Activities/DarkPatterns"  
       - rtitle: "Haubursin, C. - It's not you.  Phones are designed to be addicting."
         rlink: "https://www.vox.com/2018/2/27/17053758/phone-addictive-design-google-apple"
       - rtitle: "Norman Ch. 1"
@@ -217,32 +220,13 @@ schedule:
         rlink: "https://www.interaction-design.org/literature/topics/affordances"
       - rtitle: "What are Signifiers?"
         rlink: "https://www.interaction-design.org/literature/topics/signifiers"
-  - week: "2"
-    date: "1"
-    title: "Psychopathology of Dark Patterns"
-    link: "Activities/DarkPatterns"
-    readings:
       - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
         rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"
       - rtitle: "Eyal Ch. 1"
         rlink: false
+  ## Wednesday, February 18th
   - week: "3"
     date: "0"
-    title: "Psychology of HCI - Human Factors"
-    link: "Activities/HumanFactors"
-    readings:
-      - rtitle: "Types of Dark Patterns"
-        rlink: "https://www.darkpatterns.org/types-of-dark-pattern"
-      - rtitle: "Dark Patterns - the Worst Counterexamples of User Experience Design"
-        rlink: "https://medium.com/@maud.im.marechal/darkpatterns-c938502cee49"
-      - rtitle: "A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality"
-        rlink: "https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane"
-      - rtitle: "Shepard Tones - The Sound Illusion that Makes Dunkirk so Intense"
-        rlink: "https://www.youtube.com/watch?v=LVWTQcZbLgY"
-      - rtitle: "Adobe - 6 Ways to Reduce Cognitive Load"
-        rlink: "https://xd.adobe.com/ideas/process/information-architecture/6-ways-to-reduce-cognitive-load-for-a-better-ui/"
-  - week: "3"
-    date: "1"
     title: "Psychology of HCI - Human Factors"
     deliverables:
       - dtitle: "Homework Assignment: Voice Prompts Due"
@@ -254,65 +238,65 @@ schedule:
         points: 100
         rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"
     readings:
+      - rtitle: "Psychology of HCI - Human Factors (In-Class Activity)
+        rlink: "Activities/HumanFactors" 
+      - rtitle: "Types of Dark Patterns"
+        rlink: "https://www.darkpatterns.org/types-of-dark-pattern"
+      - rtitle: "Dark Patterns - the Worst Counterexamples of User Experience Design"
+        rlink: "https://medium.com/@maud.im.marechal/darkpatterns-c938502cee49"
+      - rtitle: "A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality"
+        rlink: "https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane"
+      - rtitle: "Shepard Tones - The Sound Illusion that Makes Dunkirk so Intense"
+        rlink: "https://www.youtube.com/watch?v=LVWTQcZbLgY"
+      - rtitle: "Adobe - 6 Ways to Reduce Cognitive Load"
+        rlink: "https://xd.adobe.com/ideas/process/information-architecture/6-ways-to-reduce-cognitive-load-for-a-better-ui/"
       - rtitle: "Mind-Controlled VR Game Really Works"
         rlink: "https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/"
       - rtitle: "Designing Better Error Messages"
         rlink: "https://www.smashingmagazine.com/2022/08/error-messages-ux-design/"
+  ## Wednesday, February 25th
   - week: "4"
     date: "0"
-    title: "Psychological Triggers"
-    link: "Activities/Triggers"
+    title: "Psychological Triggers & Designing the User Experience (UX) & Motivating Action"
     deliverables:
       - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out"
         dlink: "Assignments/Reflections/NotebookCheck"
         points: 10
         submission_types: "onpaper"
     readings:
+      - rtitle: "Psychological Triggers (In-Class Activity)
+        rlink: "Activities/Triggers" 
+      - rtitle: "Designing the User Experience (UX) (In-Class Activity)
+        rlink: "Activities/UX" 
+      - rtitle: "Motivating Action (In-Class Activity)
+        rlink: "Activities/Motivating" 
       - rtitle: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
         rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says"
       - rtitle: "Gourville, J. - The Curse of Innovation: A Theory of Why Innovative New Products Fail in the Marketplace"
         rlink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=777644"
       - rtitle: "Eyal Ch. 2"
         rlink: false
-  - week: "4"
-    date: "1"
-    title: "Designing the User Experience (UX)"
-    link: "Activities/UX"
-    readings:
       - rtitle: "Intro to UX: the Norman door"
         rlink: "https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086"
       - rtitle: "The Formula for Phone Addiction Might Double As a Cure"
         rlink: "https://www.wired.com/story/phone-addiction-formula/"
       - rtitle: "Katiyar, S. - Storyboarding and User Interface Design"
         rlink: "https://uxplanet.org/storyboarding-and-user-interface-design-1786723aa605"
-  - week: "4"
-    date: "2"
-    title: "Motivating Action"
-    link: "Activities/Motivating"
-    readings:
       - rtitle: "The US military is trying to read minds"
         rlink: "https://www.technologyreview.com/2019/10/16/132269/us-military-super-soldiers-control-drones-brain-computer-interfaces/"
       - rtitle: "The Fogg Behavior Model"
         rlink: "https://behaviormodel.org/"
       - rtitle: "Eyal Ch. 3"
         rlink: false
+  ## Wednesday, March 4th
   - week: "5"
     date: "0"
-    title: "Augmented Reality"
-    link: "Activities/AugmentedReality"
+    title: "Augmented Reality & Accessibility"
     deliverables:
       - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Due"
         dlink: "Assignments/Reflections/NotebookCheck"
         points: 10
         submission_types: "onpaper"
-    readings:
-      - rtitle: "Stanford Seminar - Augmented Reality and Accessibility"
-        rlink: "https://www.youtube.com/watch?v=lBq-WjXmTDo"
-  - week: "5"
-    date: "1"
-    title: "Accessibility"
-    link: "Activities/Accessibility"
-    deliverables:
       - dtitle: "Homework Assignment: Eye Tracking Due"
         dlink: "Assignments/Programming/EyeTracking"
         points: 100
@@ -322,24 +306,29 @@ schedule:
         points: 100
         rubricpath: "_pages/ProgrammingAssignments/asmt-ar.md"
     readings:
+      - rtitle: "Augmented Reality (In-Class Activity)"
+        rlink: "Activities/AugmentedReality" 
+      - rtitle: "Accessibility (In-Class Activity)"
+        rlink: "Activities/Accessibility" 
+      - rtitle: "Stanford Seminar - Augmented Reality and Accessibility"
+        rlink: "https://www.youtube.com/watch?v=lBq-WjXmTDo"
       - rtitle: "Accessible Design for Users With Disabilities"
         rlink: "https://www.nngroup.com/articles/accessible-design-for-users-with-disabilities/"
       - rtitle: "Eyal Ch. 4"
         rlink: false
       - rtitle: "How Technology is Hijacking Your Mind — from a Magician and Google Design Ethicist"
         rlink: "https://medium.com/thrive-global/how-technology-hijacks-peoples-minds-from-a-magician-and-google-s-design-ethicist-56d62ef5edf3"
+  ## Wednesday, March 11th
   - week: "6"
     date: "0"
-    title: "Bias in Design"
-    link: "Activities/Bias"
+    title: "Bias in Design & Variable Reward"
     readings:
+      - rtitle: "Bias in Design (In-Class Activity)"
+        rlink: "Activities/Bias" 
+      - rtitle: "Variable Reward (In-Class Activity)"
+        rlink: "Activities/VariableReward" 
       - rtitle: "The Bias Blind Spot and Unconscious Bias in Design"
         rlink: "https://www.interaction-design.org/literature/article/the-bias-blind-spot-and-unconscious-bias-in-design"
-  - week: "6"
-    date: "1"
-    title: "Variable Reward"
-    link: "Activities/VariableReward"
-    readings:
       - rtitle: "A Code of Ethics for the Human-Robot Interaction Profession"
         rlink: "https://robots.law.miami.edu/2014/wp-content/uploads/2013/06/a-code-of-ethics-for-the-human-robot-interaction-profession-riek-howard.pdf"
       - rtitle: "Meppe, J. - Why are instagram, facebook, and twitter so damn addicting?"
@@ -348,21 +337,10 @@ schedule:
         rlink: false
       - rtitle: "Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities"
         rlink: "https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165"
+  ## Wednesday, March 18th (Spring break)
   - week: "8"
     date: "0"
-    title: "Leveraging Habits for Intuition"
-    link: "Activities/Intuition"
-    deliverables:
-      - dtitle: "Final Project: Project and Presentation Handed Out"
-        dlink: "Projects/Final"
-        points: 100
-    readings:
-      - rtitle: "What Ethics Should Guide the Use of Robots in Policing?"
-        rlink: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"
-  - week: "8"
-    date: "1"
-    title: "Design Principles"
-    link: "Activities/DesignPrinciples"
+    title: "Spring Break (No Class)"
     deliverables:
       - dtitle: "Homework Assignment: Augmented Reality Due"
         dlink: "Assignments/Programming/AugmentedReality"
@@ -376,7 +354,16 @@ schedule:
         dlink: "Projects/Report"
         points: 100
         submission_types: "written"
+      - dtitle: "Final Project: Project and Presentation Handed Out"
+        dlink: "Projects/Final"
+        points: 100
     readings:
+      - rtitle: "Leveraging Habits for Intuition (In-Class Activity)"
+        rlink: "Activities/Intuition" 
+      - rtitle: "Design Principles (In-Class Activity)"
+        rlink: "Activities/DesignPrinciples" 
+      - rtitle: "What Ethics Should Guide the Use of Robots in Policing?"
+        rlink: "https://www.nytimes.com/roomfordebate/2016/07/14/what-ethics-should-guide-the-use-of-robots-in-policing"
       - rtitle: "Evil by Design"
         rlink: "https://evilbydesign.info/"
       - rtitle: "Norman Ch. 3"
@@ -385,76 +372,71 @@ schedule:
         rlink: "https://www.interaction-design.org/literature/topics/design-principles"
       - rtitle: "10 Usability Heuristics for User Interface Design"
         rlink: "https://www.nngroup.com/articles/ten-usability-heuristics/"
+  ## Wednesday, March 25th
   - week: "9"
     date: "0"
-    title: "Collective Memory"
-    link: "Activities/CollectiveMemory"
+    title: "Collective Memory & Application of Affordances and Signifiers in Constrainted Environments"
     readings:
+      - rtitle: "Collective Memory (In-Class Activity)"
+        rlink: "Activities/CollectiveMemory" 
+      - rtitle: "Ethical Considerations (In-Class Activity)"
+        rlink: "Activities/ConstrainedApplications" 
       - rtitle: "You Snooze, You Lose: Insurers Make The Old Adage Literally True"
         rlink: "https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true"
       - rtitle: "Mair, A. - The Role of Memory in HCI"
         rlink: "https://medium.com/@avimair/the-role-of-memory-in-hci-f92204a6980d"
-  - week: "9"
-    date: "1"
-    title: "Application of Affordances and Signifiers in Constrainted Environments"
-    link: "Activities/ConstrainedApplications"
-    readings:
       - rtitle: "How US Tech Giants are Helping to Build China's Surveillance State"
         rlink: "https://theintercept.com/2019/07/11/china-surveillance-google-ibm-semptian/"
       - rtitle: "Norman Ch. 4"
         rlink: false
+  ## Wednesday, April 1st
   - week: "10"
     date: "0"
-    title: "Informing Design by Observing Human Error"
-    link: "Activities/ExperimentalObservation"
+    title: "Informing Design by Observing Human Error & Ethical Considerations"
     deliverables:
       - dtitle: "Final Project: Proposal Due"
         dlink: "Projects/Final"
         points: 10
         submission_types: "written"
+      - dtitle: "Homework Assignment: Ethical Case Studies Handed Out"
+        dlink: "Assignments/Written/EthicalConsiderations"
+        points: 100
+        submission_types: "written"
     readings:
+      - rtitle: "Informing Design by Observing Human Error (In-Class Activity)"
+        rlink: "Activities/ExperimentalObservation" 
+      - rtitle: "Ethical Considerations (In-Class Activity)"
+        rlink: "Activities/EthicalConsiderations" 
       - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
         rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html"
       - rtitle: "Norman Ch. 5"
         rlink: false
       - rtitle: "Norman and Nielson - Gestural Interfaces: A Step Backward In Usability"
         rlink: "http://manoa.hawaii.edu/hci/readings/interactions2010_norman_nielsen.pdf"
-  - week: "10"
-    date: "1"
-    title: "Ethical Considerations"
-    link: "Activities/EthicalConsiderations"
-    deliverables:
-      - dtitle: "Homework Assignment: Ethical Case Studies Handed Out"
-        dlink: "Assignments/Written/EthicalConsiderations"
-        points: 100
-        submission_types: "written"
-    readings:
       - rtitle: "How Robot Carers could be the Future for Lonely Elderly People"
         rlink: "https://www.independent.co.uk/life-style/gadgets-and-tech/features/robot-carer-elderly-people-loneliness-ageing-population-care-homes-a8659801.html"
       - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
-        rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"
+        rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"      
+  ## Wednesday, April 8th
   - week: "11"
     date: "0"
-    title: "Robot Rights"
-    link: "Activities/RobotRights"
+    title: "Robot Rights & Design Thinking"
     deliverables:
       - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out"
         dlink: "Assignments/Reflections/NotebookCheck"
         points: 10
         submission_types: "onpaper"
-    readings:
-      - rtitle: "Robot Rights? Let's Talk about Human Welfare Instead"
-        rlink: "https://arxiv.org/abs/2001.05046v1"
-  - week: "11"
-    date: "1"
-    title: "Design Thinking"
-    link: "Activities/DesignThinking"
-    deliverables:
       - dtitle: "Final Project: Design Plan Due"
         dlink: "Projects/Final"
         points: 10
         submission_types: "written"
     readings:
+      - rtitle: "Robot Right (In-Class Activity)"
+        rlink: "Activities/RobotRights"  
+      - rtitle: "Design Thinking (In-Class Activity)"
+        rlink: "Activities/DesignThinking"
+      - rtitle: "Robot Rights? Let's Talk about Human Welfare Instead"
+        rlink: "https://arxiv.org/abs/2001.05046v1"
       - rtitle: "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change"
         rlink: "https://journals.sagepub.com/doi/full/10.1177/2378023121999581"
       - rtitle: "Chathurika, H. - Principles of Design Thinking - Part 1"
@@ -465,30 +447,28 @@ schedule:
         rlink: "https://www.youtube.com/watch?v=CVdn-2KE2bs"
       - rtitle: "Norman Ch. 6"
         rlink: false
+  ## Wednesday, April 15th
   - week: "12"
     date: "0"
     title: "Final Project Stakeholder Feedback Session"
     readings:
       - rtitle: "About the Paper that Forced Timnit Gerbu out of Google"
         rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"
-  - week: "12"
-    date: "1"
-    title: "Final Project Stakeholder Feedback Session"
-    deliverables:
-      - dtitle: "Homework Assignment: AutoGen AI Agents Due"
-        dlink: "Assignments/Programming/AutoGenAI"
-        points: 100
-        rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
-    readings:
       - rtitle: "Microsoft AI Principles"
         rlink: "https://www.microsoft.com/en-us/ai/responsible-ai?activetab=pivot1:primaryr6"
       - rtitle: "A Health Care Algorithm Offered Less Care to Black Patients"
         rlink: "https://www.wired.com/story/how-algorithm-favored-whites-over-blacks-health-care/"
       - rtitle: "Dissecting racial bias in an algorithm used to manage the health of populations"
         rlink: "https://www.science.org/doi/10.1126/science.aax2342"
+    deliverables:
+      - dtitle: "Homework Assignment: AutoGen AI Agents Due"
+        dlink: "Assignments/Programming/AutoGenAI"
+        points: 100
+        # rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
+  ## Wednesday, April 22nd
   - week: "13"
     date: "0"
-    title: "Final Project Workshop"
+    title: "Final Project Collaboration and User Experience Study"
     deliverables:
       - dtitle: "Research Report: Research Report First Draft Due"
         dlink: "Projects/Report"
@@ -497,35 +477,33 @@ schedule:
     readings:
       - rtitle: "Ackerman, E. - My Fight With a Sidewalk Robot"
         rlink: "https://www.bloomberg.com/news/articles/2019-11-19/why-tech-needs-more-designers-with-disabilities"
-  - week: "13"
-    date: "1"
-    title: "Final Project Collaboration and User Experience Study"
-    deliverables:
-      - dtitle: "Homework Assignment: Ethical Case Studies Due"
-        dlink: "Assignments/Written/EthicalConsiderations"
-        points: 100
-        submission_types: "written"
-    readings:
       - rtitle: "Gonzales-Cameron, A. - Hello, My Name is Error"
         rlink: "https://alistapart.com/article/hello-my-name-is-error/"
+  ## Wednesday, April 29th (CoSA)
   - week: "14"
     date: "0"
-    title: "Ethical Case Studies Presentations"
+    title: "CoSA (No class)"
     deliverables:
       - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"
         dlink: "Assignments/Reflections/NotebookCheck"
         points: 10
         submission_types: "onpaper"
-  - week: "14"
-    date: "1"
-    title: "Research Report Final Presentation and Discussion"
+      - dtitle: "Homework Assignment: Ethical Case Studies Due"
+        dlink: "Assignments/Written/EthicalConsiderations"
+        points: 100
+        submission_types: "written"
+  ## Wednesday, May 3rd
+  - week: "15"
+    date: "0"
+    title: "Ethical Case Studies Presentations"
     deliverables:
       - dtitle: "Research Report: Research Report Due"
         dlink: "Projects/Report"
         points: 100
         submission_types: "written"
-  - week: "15"
-    date: "0"
+  ## Monday, May 11th
+  - week: "16"
+    date: "1"
     title: "Research Report Final Presentation and Discussion"
     deliverables:
       - dtitle: "Final Project: Project and Presentation Due"
@@ -554,7 +532,10 @@ university:
     kdisplay: false    
   - kname: "Withdraw without Failure Deadline"
     kdate: "2026/04/21"
-    kdisplay: true    
+    kdisplay: true
+  - kname: "CoSA"
+    kdate: "2026/04/29"
+    kdisplay: true
   - kname: "Reading Day"
     kdate: "2026/05/13"
     kdisplay: false    
