@@ -162,7 +162,7 @@ schedule:
         submission_types: "onpaper"
     readings:
       - rtitle: "Class Slides"
-        rlink: ""
+        rlink: false
       - rtitle: "Bush, V. - As We May Think"
         rlink: "https://csis.pace.edu/~marchese/CS835/Lec3/bush.pdf"
       - rtitle: "Schalk, Z. - Humans in Control: Thoughts on the Past, Present, and Future of HCI"
@@ -195,7 +195,6 @@ schedule:
   - week: "2"
     date: "0"
     title: "The Way We Interact - Affordances and Signifiers & Psychopathology of Dark Patterns"
-    link: "Activities/Interactions"
     deliverables:
       - dtitle: "Homework Assignment: The Mother of All Demos Due"
         dlink: "Assignments/Written/MOAD"
