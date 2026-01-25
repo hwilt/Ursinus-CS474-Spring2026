@@ -337,7 +337,7 @@ schedule:
       - rtitle: "Color blind?  Artificial intelligence could improve the treatment of breast cancer, but there are worries it might worsen disparities"
         rlink: "https://edition.pagesuite.com/popovers/dynamic_article_popover.aspx?artguid=96716b03-dbbf-43e2-988d-5905d1a1167c&appid=1165"
   ## Wednesday, March 18th (Spring break)
-  - week: "8"
+  - week: "7"
     date: "0"
     title: "Spring Break (No Class)"
     deliverables:
@@ -372,7 +372,7 @@ schedule:
       - rtitle: "10 Usability Heuristics for User Interface Design"
         rlink: "https://www.nngroup.com/articles/ten-usability-heuristics/"
   ## Wednesday, March 25th
-  - week: "9"
+  - week: "8"
     date: "0"
     title: "Collective Memory & Application of Affordances and Signifiers in Constrainted Environments"
     readings:
@@ -389,7 +389,7 @@ schedule:
       - rtitle: "Norman Ch. 4"
         rlink: false
   ## Wednesday, April 1st
-  - week: "10"
+  - week: "9"
     date: "0"
     title: "Informing Design by Observing Human Error & Ethical Considerations"
     deliverables:
@@ -417,7 +417,7 @@ schedule:
       - rtitle: "The US Military Is Working on Tech That Could Turn Soldiers Into Cyborgs"
         rlink: "https://www.sciencealert.com/the-us-military-is-working-on-neural-interfaces-to-connect-humans-to-the-digital-world"      
   ## Wednesday, April 8th
-  - week: "11"
+  - week: "10"
     date: "0"
     title: "Robot Rights & Design Thinking"
     deliverables:
@@ -447,7 +447,7 @@ schedule:
       - rtitle: "Norman Ch. 6"
         rlink: false
   ## Wednesday, April 15th
-  - week: "12"
+  - week: "11"
     date: "0"
     title: "Final Project Stakeholder Feedback Session"
     readings:
@@ -465,7 +465,7 @@ schedule:
         points: 100
         # rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
   ## Wednesday, April 22nd
-  - week: "13"
+  - week: "12"
     date: "0"
     title: "Final Project Collaboration and User Experience Study"
     deliverables:
@@ -479,7 +479,7 @@ schedule:
       - rtitle: "Gonzales-Cameron, A. - Hello, My Name is Error"
         rlink: "https://alistapart.com/article/hello-my-name-is-error/"
   ## Wednesday, April 29th (CoSA)
-  - week: "14"
+  - week: "13"
     date: "0"
     title: "CoSA (No class)"
     deliverables:
@@ -492,7 +492,7 @@ schedule:
         points: 100
         submission_types: "written"
   ## Wednesday, May 3rd
-  - week: "15"
+  - week: "14"
     date: "0"
     title: "Ethical Case Studies Presentations"
     deliverables:
@@ -501,7 +501,7 @@ schedule:
         points: 100
         submission_types: "written"
   ## Monday, May 11th
-  - week: "16"
+  - week: "15"
     date: "1"
     title: "Research Report Final Presentation and Discussion"
     deliverables:
