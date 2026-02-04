@@ -11,7 +11,7 @@ info:
   course_title: "Human Computer Interaction"
   credit_hours: "4 Semester Hours"
   course_homepage: "https://hwilt.github.io/Ursinus-CS474-Spring2026/"
-  class_notebook: TODO
+  ##class_notebook: TODO
   ical: files/CS474.ics
   teamshelproom: "https://teams.microsoft.com/l/team/19%3AcIjNWDHJlNvR3ljJ-mWs_IkFXR0CIjBvAh2csMbBEko1%40thread.tacv2/conversations?groupId=a4e281ab-a76a-4316-90f0-687f0c1f0066&tenantId=921f1c03-8689-4e60-a722-f5ea581e00fe"
   course_prerequisites: "CS-375 Software Engineering"
@@ -32,17 +32,17 @@ info:
     - day: "W"
       starttime: "7:00 PM"
       endtime: "9:30 PM"
-      place: "????"
-  midtermexam: 
-    - mdate: "TBD"
-      mstarttime: "TBD"
-      mendtime: "TBD"
-      mroom: "TBD"       
-  finalexam: 
-    - fdate: "5/2026"
-      fstarttime: "???"
-      fendtime: "???"
-      froom: "????"      
+      place: "Pfahler 106"
+  #midtermexam: 
+  #  - mdate: "TBD"
+  ##    mstarttime: "TBD"
+  #    mendtime: "TBD"
+  #    mroom: "TBD"       
+  #finalexam: 
+  #  - fdate: "5/2026"
+  #    fstarttime: "???"
+  #    fendtime: "???"
+  #    froom: "????"      
   flexible_submission_policy: "In the absence of <a href=\"#accommodations\">accommodations</a> arranged in advance with the instructor or college, all assignments are due at 11:59PM Eastern Time on the date(s) stated on the schedule.  Assignments will be accepted without prior permission following this time with a points deduction of 5% per day if submitted before 10:59 PM Eastern Time on the day submitted.<br><br>Students may request, in writing, up to three extensions during the semester, each lasting up to 7 days in duration.  This request should motivate the need, including the number of days requested, the reason for the request, and a day-by-day plan of one's time and energy; in addition, the request must include a report on progress to-date, including a copy of the deliverable in its current form, and documentation of at least one visit to the instructor's student hours or to the help room.  Each request will be granted only if such sufficient motivation is given, and only if the progress demonstrated merits a passing grade.  The request must be made at least 24 hours prior to the initial submission deadline.<br><br>Extra credit will not be awarded for assignments submitted under the flexible submission policy.  Students with accommodations will receive additional &quot;slack days&quot; as specified within the accommodations letter; however, some deliverables cannot be subject to accommodations due to the time-sensitive nature of the assignment (for example, group assignments, presentations, and course surveys).  Students who add the class late shall receive additional slack days equal to the number of days between the start of classes and the first date that approval is given or that class is attended (whichever occurs first).  Under no circumstances (including accommodations) can late work be accepted after the final class meeting, nor during final exams week, nor after the exam." 
   late_penalty_per_period: 5
   late_penalty_period: "day"
@@ -169,8 +169,6 @@ schedule:
         rlink: "https://blogs.commons.georgetown.edu/cctp-797-fall2013/archives/807"
       - rtitle: "How Eye Control Empowers People with Disabilities"
         rlink: "https://www.youtube.com/watch?v=NXOzDf26FnU"
-      - rtitle: "How to Use Eye Control on a PC Running Windows 10"
-        rlink: "https://www.youtube.com/watch?v=4Bqs9JkMcCA"
   ## Wednesday, February 4th
   - week: "1"
     date: "0"
@@ -189,6 +187,8 @@ schedule:
         rlink: "Activities/VoicePrompt" 
       - rtitle: "An Example Modality - Eye Tracking (In-Class Activity)"
         rlink: "Activities/EyeTracking" 
+      - rtitle: "How to Use Eye Control on a PC Running Windows 10"
+        rlink: "https://www.youtube.com/watch?v=4Bqs9JkMcCA"
       - rtitle: "50 Years Later, We Still Don't Grasp the Mother of All Demos"
         rlink: "https://www.wired.com/story/50-years-later-we-still-dont-grasp-the-mother-of-all-demos/"
   ## Wednesday, February 11th
