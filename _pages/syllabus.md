@@ -12,7 +12,7 @@ info:
   credit_hours: "4 Semester Hours"
   course_homepage: "https://hwilt.github.io/Ursinus-CS474-Spring2026/"
   ##class_notebook: TODO
-  ical: files/CS474.ics
+  ##ical: files/CS474.ics
   teamshelproom: "https://teams.microsoft.com/l/team/19%3AcIjNWDHJlNvR3ljJ-mWs_IkFXR0CIjBvAh2csMbBEko1%40thread.tacv2/conversations?groupId=a4e281ab-a76a-4316-90f0-687f0c1f0066&tenantId=921f1c03-8689-4e60-a722-f5ea581e00fe"
   course_prerequisites: "CS-375 Software Engineering"
   course_start_date: "2026/01/26"
