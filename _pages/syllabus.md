@@ -68,7 +68,7 @@ instructors:
   office: "No Office"
   webpage_url: "https://hwilt.github.io/"
   picture: /Ursinus-CS474-Spring2026/images/profile.jpeg
-  officehourssignup: "TODO"
+  officehourssignup: "https://cal.com/hwilt"
   officehours:
   - day: "T"
     starttime: "12:00 PM"
