@@ -221,12 +221,16 @@ schedule:
         rlink: "https://www.interaction-design.org/literature/topics/signifiers"
       - rtitle: "Fresh Cambridge Analytica leak 'shows global manipulation is out of control'"
         rlink: "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation"
+      - rtitle: "Types of Dark Patterns"
+        rlink: "https://www.darkpatterns.org/types-of-dark-pattern"
+      - rtitle: "Dark Patterns - the Worst Counterexamples of User Experience Design"
+        rlink: "https://medium.com/@maud.im.marechal/darkpatterns-c938502cee49"
       - rtitle: "Eyal Ch. 1"
         rlink: false
   ## Wednesday, February 18th
   - week: "3"
     date: "0"
-    title: "Psychology of HCI - Human Factors"
+    title: "Psychology & Psychological Triggers"
     deliverables:
       - dtitle: "Homework Assignment: Voice Prompts Due"
         dlink: "Assignments/Programming/VoicePrompt"
@@ -239,10 +243,8 @@ schedule:
     readings:
       - rtitle: "Psychology of HCI - Human Factors (In-Class Activity)"
         rlink: "Activities/HumanFactors" 
-      - rtitle: "Types of Dark Patterns"
-        rlink: "https://www.darkpatterns.org/types-of-dark-pattern"
-      - rtitle: "Dark Patterns - the Worst Counterexamples of User Experience Design"
-        rlink: "https://medium.com/@maud.im.marechal/darkpatterns-c938502cee49"
+      - rtitle: "Psychological Triggers (In-Class Activity)"
+        rlink: "Activities/Triggers" 
       - rtitle: "A cartoon Mark Zuckerberg toured hurricane-struck Puerto Rico in virtual reality"
         rlink: "https://www.theverge.com/2017/10/9/16450346/zuckerberg-facebook-spaces-puerto-rico-virtual-reality-hurricane"
       - rtitle: "Shepard Tones - The Sound Illusion that Makes Dunkirk so Intense"
@@ -253,28 +255,26 @@ schedule:
         rlink: "https://www.technologyreview.com/2017/08/09/68005/mind-controlled-vr-game-really-works/"
       - rtitle: "Designing Better Error Messages"
         rlink: "https://www.smashingmagazine.com/2022/08/error-messages-ux-design/"
-  ## Wednesday, February 25th
-  - week: "4"
-    date: "0"
-    title: "Psychological Triggers & Designing the User Experience (UX) & Motivating Action"
-    deliverables:
-      - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out"
-        dlink: "Assignments/Reflections/NotebookCheck"
-        points: 10
-        submission_types: "onpaper"
-    readings:
-      - rtitle: "Psychological Triggers (In-Class Activity)"
-        rlink: "Activities/Triggers" 
-      - rtitle: "Designing the User Experience (UX) (In-Class Activity)"
-        rlink: "Activities/UX" 
-      - rtitle: "Motivating Action (In-Class Activity)"
-        rlink: "Activities/Motivating" 
       - rtitle: "ICE Is Using Location Data From Games and Apps to Track and Arrest Immigrants, Report Says"
         rlink: "https://www.vice.com/en/article/v7479m/ice-is-using-location-data-from-games-and-apps-to-track-and-arrest-immigrants-report-says"
       - rtitle: "Gourville, J. - The Curse of Innovation: A Theory of Why Innovative New Products Fail in the Marketplace"
         rlink: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=777644"
       - rtitle: "Eyal Ch. 2"
         rlink: false
+  ## Wednesday, February 25th
+  - week: "4"
+    date: "0"
+    title: "Designing the User Experience (UX) & Motivating Action"
+    deliverables:
+      - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out"
+        dlink: "Assignments/Reflections/NotebookCheck"
+        points: 10
+        submission_types: "onpaper"
+    readings:
+      - rtitle: "Designing the User Experience (UX) (In-Class Activity)"
+        rlink: "Activities/UX" 
+      - rtitle: "Motivating Action (In-Class Activity)"
+        rlink: "Activities/Motivating" 
       - rtitle: "Intro to UX: the Norman door"
         rlink: "https://uxdesign.cc/intro-to-ux-the-norman-door-61f8120b6086"
       - rtitle: "The Formula for Phone Addiction Might Double As a Cure"
