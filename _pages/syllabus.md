@@ -236,10 +236,10 @@ schedule:
         dlink: "Assignments/Programming/VoicePrompt"
         points: 100
         rubricpath: "_pages/ProgrammingAssignments/asmt-voiceprompt.md"
-      - dtitle: "Homework Assignment: Eye Tracking Handed Out"
-        dlink: "Assignments/Programming/EyeTracking"
-        points: 100
-        rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"
+      #- dtitle: "Homework Assignment: Eye Tracking Handed Out"
+      #  dlink: "Assignments/Programming/EyeTracking"
+      #  points: 100
+      #  rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"
     readings:
       - rtitle: "Psychology of HCI - Human Factors (In-Class Activity)"
         rlink: "Activities/HumanFactors" 
@@ -296,10 +296,10 @@ schedule:
         dlink: "Assignments/Reflections/NotebookCheck"
         points: 10
         submission_types: "onpaper"
-      - dtitle: "Homework Assignment: Eye Tracking Due"
-        dlink: "Assignments/Programming/EyeTracking"
-        points: 100
-        rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"
+      #- dtitle: "Homework Assignment: Eye Tracking Due"
+      #  dlink: "Assignments/Programming/EyeTracking"
+      #  points: 100
+      #  rubricpath: "_pages/ProgrammingAssignments/asmt-eyetracking.md"
       - dtitle: "Homework Assignment: Augmented Reality Handed Out"
         dlink: "Assignments/Programming/AugmentedReality"
         points: 100
@@ -496,6 +496,10 @@ schedule:
     date: "0"
     title: "Ethical Case Studies Presentations"
     deliverables:
+      - dtitle: "Reading Reflective Journal: Third Notebook and Discussion Board Check Due"
+        dlink: "Assignments/Reflections/NotebookCheck"
+        points: 10
+        submission_types: "onpaper"
       - dtitle: "Research Report: Research Report Due"
         dlink: "Projects/Report"
         points: 100

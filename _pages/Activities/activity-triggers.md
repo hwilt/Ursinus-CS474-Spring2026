@@ -24,6 +24,7 @@ info:
         - "Why do so many people use Google for searching, when more privacy-friendly solutions may exist?"
         - "Have you ever failed a CAPTCHA before?  What are its limitations for persons with disabilities?  Have you chosen to use one service versus another because of its use of CAPTCHA?"
         - "Notice that ReCAPTCHA uses two words instead of one.  Given what you may know about training algorithms for learning, how might ReCAPTCHA work?"
+        - "What other types of CAPTCHA have you seen or used?"
     - model: |
         <img src="https://www.nirandfar.com/wp-content/uploads/2012/03/hook-model-home-1080x675.png" alt="The Hooked Model from Nir Eyal's book Hooked">
         <br>
