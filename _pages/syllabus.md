@@ -317,6 +317,18 @@ schedule:
   - week: "6"
     date: "0"
     title: "Bias in Design & Variable Reward"
+    deliverables:
+      - dtitle: "Homework Assignment: AutoGen AI Agents Handed Out"
+        dlink: "Assignments/Programming/AutoGenAI"
+        points: 100
+        rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
+      - dtitle: "Research Report: Research Report Handed Out"
+        dlink: "Projects/Report"
+        points: 100
+        submission_types: "written"
+      - dtitle: "Final Project: Project and Presentation Handed Out"
+        dlink: "Projects/Final"
+        points: 100
     readings:
       - rtitle: "Bias in Design (In-Class Activity)"
         rlink: "Activities/Bias" 
@@ -341,17 +353,6 @@ schedule:
         dlink: "Assignments/Programming/AugmentedReality"
         points: 100
         rubricpath: "_pages/ProgrammingAssignments/asmt-ar.md"
-      - dtitle: "Homework Assignment: AutoGen AI Agents Handed Out"
-        dlink: "Assignments/Programming/AutoGenAI"
-        points: 100
-        rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
-      - dtitle: "Research Report: Research Report Handed Out"
-        dlink: "Projects/Report"
-        points: 100
-        submission_types: "written"
-      - dtitle: "Final Project: Project and Presentation Handed Out"
-        dlink: "Projects/Final"
-        points: 100
     readings:
       - rtitle: "Leveraging Habits for Intuition (In-Class Activity)"
         rlink: "Activities/Intuition" 
@@ -370,7 +371,7 @@ schedule:
   ## Wednesday, March 25th (No Class)
   - week: "8"
     date: "0"
-    title: "Collective Memory & Application of Affordances and Signifiers in Constrainted Environments"
+    title: "Group Get Together (I will not be there)"
     readings:
       - rtitle: "Collective Memory (In-Class Activity)"
         rlink: "Activities/CollectiveMemory" 
