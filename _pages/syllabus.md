@@ -266,10 +266,6 @@ schedule:
     date: "0"
     title: "Designing the User Experience (UX) & Motivating Action"
     deliverables:
-      - dtitle: "Reading Reflective Journal: First Notebook and Discussion Board Check Handed Out"
-        dlink: "Assignments/Reflections/NotebookCheck"
-        points: 10
-        submission_types: "onpaper"
     readings:
       - rtitle: "Designing the User Experience (UX) (In-Class Activity)"
         rlink: "Activities/UX" 
@@ -371,7 +367,7 @@ schedule:
         rlink: "https://www.interaction-design.org/literature/topics/design-principles"
       - rtitle: "10 Usability Heuristics for User Interface Design"
         rlink: "https://www.nngroup.com/articles/ten-usability-heuristics/"
-  ## Wednesday, March 25th
+  ## Wednesday, March 25th (No Class)
   - week: "8"
     date: "0"
     title: "Collective Memory & Application of Affordances and Signifiers in Constrainted Environments"
@@ -421,7 +417,7 @@ schedule:
     date: "0"
     title: "Robot Rights & Design Thinking"
     deliverables:
-      - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Handed Out"
+      - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"
         dlink: "Assignments/Reflections/NotebookCheck"
         points: 10
         submission_types: "onpaper"
@@ -483,15 +479,11 @@ schedule:
     date: "0"
     title: "CoSA (No class)"
     deliverables:
-      - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"
-        dlink: "Assignments/Reflections/NotebookCheck"
-        points: 10
-        submission_types: "onpaper"
       - dtitle: "Homework Assignment: Ethical Case Studies Due"
         dlink: "Assignments/Written/EthicalConsiderations"
         points: 100
         submission_types: "written"
-  ## Wednesday, May 3rd
+  ## Wednesday, May 6th
   - week: "14"
     date: "0"
     title: "Ethical Case Studies Presentations"

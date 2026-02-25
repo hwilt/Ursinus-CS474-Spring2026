@@ -67,7 +67,7 @@ Your paper should be formatted like these examples (note their sections and refe
 * [Passive RFID-based Diaper Moisture Sensor](https://par.nsf.gov/servlets/purl/10195509)
 * [A Cyber-Infrastructure for SUpporting K-12 Engineering Education through Robotics](https://aaai.org/Papers/Workshops/2008/WS-08-02/WS08-02-013.pdf)
 
-## Presentation
+## Presentation (This is not needed)
 
 Prepare a 10-minute presentation summarizing your paper, which you will submit along with your report and present to the class.  Here are some example academic paper presentations to guide your design:
 
