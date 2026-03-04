@@ -318,10 +318,10 @@ schedule:
     date: "0"
     title: "Bias in Design & Variable Reward"
     deliverables:
-      - dtitle: "Homework Assignment: AutoGen AI Agents Handed Out"
-        dlink: "Assignments/Programming/AutoGenAI"
-        points: 100
-        rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
+      #- dtitle: "Homework Assignment: AutoGen AI Agents Handed Out"
+      #  dlink: "Assignments/Programming/AutoGenAI"
+      #  points: 100
+      #  rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
       - dtitle: "Research Report: Research Report Handed Out"
         dlink: "Projects/Report"
         points: 100
@@ -457,10 +457,10 @@ schedule:
       - rtitle: "Dissecting racial bias in an algorithm used to manage the health of populations"
         rlink: "https://www.science.org/doi/10.1126/science.aax2342"
     deliverables:
-      - dtitle: "Homework Assignment: AutoGen AI Agents Due"
-        dlink: "Assignments/Programming/AutoGenAI"
-        points: 100
-        # rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
+      #- dtitle: "Homework Assignment: AutoGen AI Agents Due"
+      #  dlink: "Assignments/Programming/AutoGenAI"
+      #  points: 100
+      #  # rubricpath: "_pages/ProgrammingAssignments/asmt-autogenai.md"
   ## Wednesday, April 22nd
   - week: "12"
     date: "0"
