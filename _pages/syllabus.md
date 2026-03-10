@@ -375,7 +375,7 @@ schedule:
     readings:
       - rtitle: "Collective Memory (In-Class Activity)"
         rlink: "Activities/CollectiveMemory" 
-      - rtitle: "Ethical Considerations (In-Class Activity)"
+      - rtitle: "Constrained Applications (In-Class Activity)"
         rlink: "Activities/ConstrainedApplications" 
       - rtitle: "You Snooze, You Lose: Insurers Make The Old Adage Literally True"
         rlink: "https://www.propublica.org/article/you-snooze-you-lose-insurers-make-the-old-adage-literally-true"
