@@ -493,10 +493,6 @@ schedule:
         dlink: "Assignments/Reflections/NotebookCheck"
         points: 10
         submission_types: "onpaper"
-      - dtitle: "Research Report: Research Report Due"
-        dlink: "Projects/Report"
-        points: 100
-        submission_types: "written"
   ## Monday, May 11th
   - week: "15"
     date: "1"
@@ -505,6 +501,10 @@ schedule:
       - dtitle: "Final Project: Project and Presentation Due"
         dlink: "Projects/Final"
         points: 100
+      - dtitle: "Research Report: Research Report Due"
+        dlink: "Projects/Report"
+        points: 100
+        submission_types: "written"
     
 university:
   semester: "Spring"
