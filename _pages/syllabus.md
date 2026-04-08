@@ -388,7 +388,7 @@ schedule:
   ## Wednesday, April 1st
   - week: "9"
     date: "0"
-    title: "Informing Design by Observing Human Error & Ethical Considerations"
+    title: "Informing Design by Observing Human Error"
     deliverables:
       - dtitle: "Final Project: Proposal Due"
         dlink: "Projects/Final"
@@ -401,8 +401,6 @@ schedule:
     readings:
       - rtitle: "Informing Design by Observing Human Error (In-Class Activity)"
         rlink: "Activities/ExperimentalObservation" 
-      - rtitle: "Ethical Considerations (In-Class Activity)"
-        rlink: "Activities/EthicalConsiderations" 
       - rtitle: "Boeing 737 Max Safety System Was Vetoed, Engineer Says"
         rlink: "https://www.nytimes.com/2019/10/02/business/boeing-737-max-crashes.html"
       - rtitle: "Norman Ch. 5"
@@ -416,7 +414,7 @@ schedule:
   ## Wednesday, April 8th
   - week: "10"
     date: "0"
-    title: "Robot Rights & Design Thinking"
+    title: "Ethical Considerations & Design Thinking"
     deliverables:
       - dtitle: "Reading Reflective Journal: Second Notebook and Discussion Board Check Due"
         dlink: "Assignments/Reflections/NotebookCheck"
@@ -427,8 +425,8 @@ schedule:
         points: 10
         submission_types: "written"
     readings:
-      - rtitle: "Robot Right (In-Class Activity)"
-        rlink: "Activities/RobotRights"  
+      - rtitle: "Ethical Considerations (In-Class Activity)"
+        rlink: "Activities/EthicalConsiderations" 
       - rtitle: "Design Thinking (In-Class Activity)"
         rlink: "Activities/DesignThinking"
       - rtitle: "Robot Rights? Let's Talk about Human Welfare Instead"
@@ -446,8 +444,10 @@ schedule:
   ## Wednesday, April 15th
   - week: "11"
     date: "0"
-    title: "Final Project Stakeholder Feedback Session"
+    title: "Robot Rights & Final Project Stakeholder Feedback Session"
     readings:
+      - rtitle: "Robot Right (In-Class Activity)"
+        rlink: "Activities/RobotRights"  
       - rtitle: "About the Paper that Forced Timnit Gerbu out of Google"
         rlink: "https://www.technologyreview.com/2020/12/04/1013294/google-ai-ethics-research-paper-forced-out-timnit-gebru/"
       - rtitle: "Microsoft AI Principles"
@@ -489,10 +489,10 @@ schedule:
     date: "0"
     title: "Ethical Case Studies Presentations"
     deliverables:
-      - dtitle: "Reading Reflective Journal: Third Notebook and Discussion Board Check Due"
-        dlink: "Assignments/Reflections/NotebookCheck"
-        points: 10
-        submission_types: "onpaper"
+      # - dtitle: "Reading Reflective Journal: Third Notebook and Discussion Board Check Due"
+      #   dlink: "Assignments/Reflections/NotebookCheck"
+      #   points: 10
+      #   submission_types: "onpaper"
   ## Monday, May 11th
   - week: "15"
     date: "1"
