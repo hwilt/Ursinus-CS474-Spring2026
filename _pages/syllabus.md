@@ -480,15 +480,19 @@ schedule:
     date: "0"
     title: "CoSA (No class)"
     deliverables:
-      - dtitle: "Homework Assignment: Ethical Case Studies Due"
-        dlink: "Assignments/Written/EthicalConsiderations"
-        points: 100
-        submission_types: "written"
+      #- dtitle: "Homework Assignment: Ethical Case Studies Due"
+      #  dlink: "Assignments/Written/EthicalConsiderations"
+      #  points: 100
+      #  submission_types: "written"
   ## Wednesday, May 6th
   - week: "14"
     date: "0"
     title: "Ethical Case Studies Presentations"
     deliverables:
+      - dtitle: "Homework Assignment: Ethical Case Studies Due"
+        dlink: "Assignments/Written/EthicalConsiderations"
+        points: 100
+        submission_types: "written"
       # - dtitle: "Reading Reflective Journal: Third Notebook and Discussion Board Check Due"
       #   dlink: "Assignments/Reflections/NotebookCheck"
       #   points: 10
